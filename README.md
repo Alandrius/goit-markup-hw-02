@@ -1,3 +1,3 @@
 ## About
 
-LIVE DEMO: https://alandrius.github.io/goit-markup-hw-01/
+LIVE DEMO: https://alandrius.github.io/goit-markup-hw-02/
