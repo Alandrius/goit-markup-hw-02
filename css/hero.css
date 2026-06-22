@@ -3,12 +3,11 @@
 }
 
 .hero-title {
-  margin-top: 0;
-  margin-bottom: var(--spacing-hero-gap);
   font-size: var(--font-size-hero);
   line-height: var(--line-height-hero);
   letter-spacing: var(--letter-spacing-base);
   color: var(--color-white);
+  text-align: center;
 }
 
 .hero-button {

@@ -1,6 +1,4 @@
 .team {
-  padding-top: var(--spacing-section);
-  padding-bottom: var(--spacing-section);
   background-color: var(--color-cloud);
 }
 
@@ -11,11 +9,4 @@
 
 .team-photo {
   display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-.team-member-name {
-  margin-top: 0;
-  margin-bottom: var(--spacing-text-gap);
 }

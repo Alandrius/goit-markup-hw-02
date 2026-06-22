@@ -24,7 +24,7 @@
   --line-height-card-title: 1.2;
   --line-height-section-title: 1.11;
   --line-height-hero: 1.07;
-  --line-height-logo: 1.17;
+  --line-height-logo: 1.33;
 
   --letter-spacing-base: 0.02em;
   --letter-spacing-logo: 0.03em;
@@ -37,7 +37,7 @@ body {
   color: var(--color-slate);
 }
 
-.list {
+ul {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -47,13 +47,9 @@ body {
   text-decoration: none;
 }
 
-.card-indent {
-  margin-left: var(--spacing-inline);
-  margin-right: var(--spacing-inline);
-}
-
 .logo {
   font-family: "Raleway", sans-serif;
+  font-weight: 700;
   font-size: var(--font-size-logo);
   line-height: var(--line-height-logo);
   letter-spacing: var(--letter-spacing-logo);
@@ -94,12 +90,4 @@ body {
   font-size: var(--font-size-base);
   line-height: var(--line-height-base);
   letter-spacing: var(--letter-spacing-base);
-}
-
-.list-item-gap > li + li {
-  margin-top: var(--spacing-item);
-}
-
-.list-item-gap-sm > li + li {
-  margin-top: var(--spacing-item-sm);
 }
