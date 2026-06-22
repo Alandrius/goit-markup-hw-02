@@ -1,0 +1,8 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/3.0.1/modern-normalize.min.css');
+@import './common.css';
+@import './header.css';
+@import './hero.css';
+@import './features.css';
+@import './team.css';
+@import './portfolio.css';
+@import './footer.css';
