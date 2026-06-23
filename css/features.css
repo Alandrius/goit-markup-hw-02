@@ -1,8 +1,3 @@
-.features-item-title {
-  margin-top: 0;
-  margin-bottom: var(--spacing-text-gap);
-}
-
 .features-item-text {
   font-size: var(--font-size-base);
   line-height: var(--line-height-base);
